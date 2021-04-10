@@ -1,0 +1,15 @@
+{
+    "title": "Book Published By Haris Company",
+    "author": ["Haris", "Atif"],
+    "published_date": {
+        "$timestamp": {
+            "t": 1,
+            "i": 1618034222
+        }
+    },
+    "pages": 200,
+    "language": "English",
+    "publisher": {
+        "$oid": "6071402d52dd47e4fcc8bb17"
+    }
+}
